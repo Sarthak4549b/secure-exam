@@ -122,4 +122,4 @@ files are migrated in place to add any columns introduced since they were create
   time), chain so far `PRINTED → SEALED → DISPATCHED → RECEIVED_AT_CENTER`, content already
   uploaded, and a freshly generated `center_code` printed to the console for the live demo.
 
-Safe to re-run any time — it always wipes and rebuilds from scratch, so nothing accumulates.
+Safe to re-run any time as it always wipes and rebuilds from scratch, so nothing accumulates.
